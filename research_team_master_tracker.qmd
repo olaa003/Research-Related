@@ -1,0 +1,240 @@
+---
+title: "Research Team Master Tracker"
+subtitle: "Research Operations, Goals, Meetings & Performance"
+author: "Blessing Oludele"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    code-fold: false
+execute:
+  echo: false
+---
+
+# Document Overview
+
+## Purpose
+
+This document serves as the central repository for research updates, individual goals, team goals, action items, meeting outcomes, project status, and general tracking.
+
+## Team Members
+
+| Name | Role | Focus Area |
+|------|------|------|
+| Arnol Fokam | Research Lead | Research Direction |
+| Nthabiseng Thema | Researcher | Team Task Follow up |
+| Fiifi Dawson | Researcher | Upskilling/Training |
+| Fasseu Akpevwoghene | Researcher | Digital Infastucture |
+| Oriel | Researcher | Data Collection |
+| Blessing Oludele | Researcher | Team Documentation |
+| xxx | Researcher | Data Collection |
+
+
+---
+
+# Annual Research Objectives
+
+## Team Goals (2026)
+
+| Goal | Success Metric | Due Date | Status |
+|--------|--------|--------|--------|
+| Submit 1 paper to ICLR 2027 | 1 Paper submission | Feb 2027 | In Progress |
+| Submit 1 paper to ICML 2027 | 1 Paper submission | Apr 2027 | In Progress |
+
+
+---
+
+# Individual Goals
+
+## Arnol Fokam
+
+### Objectives
+
+- Provide research Direction for ICLR Paper
+- Provide research Direction for ICML Paper
+
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | xxx |
+
+
+***
+## Nthabiseng Thema
+
+### Objectives
+
+- Follow up with everyone's task
+
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | xxx |
+
+
+***
+## Fiifi Dawson
+
+### Objectives
+
+- Create learning track for all members
+
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | xxx |
+
+
+***
+## Fasseu Akpevwoghene
+
+### Objectives
+
+- Setup repo and provide access
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | xxx |
+
+
+***
+## Oriel
+
+### Objectives
+
+- Research
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | xxx |
+
+
+***
+## Blessing Oludele
+
+### Objectives
+
+- Create Documentation and keep updated
+
+### Progress Updates
+
+| Date | Update |
+|--------|--------|
+| 15 Sep 2026 | Finished Creation |
+
+
+---
+
+# Meeting Tracker
+
+## Meeting Log
+
+| Date | Meeting Type | Key Decisions | Next Steps |
+|--------|--------|--------|--------|
+| 13 Sept 2026 | Weekly Research Sync | Assigning tasks, gathering research interests | Follow up on tasks |
+
+---
+
+# Detailed Meeting Notes
+
+## Meeting #1
+
+**Date:** 13 September 2026
+
+### Agenda
+
+- Research updates
+- Publication schedule
+- New project discussions
+
+### Discussion Summary
+
+- Assigning Tasks
+- ICML and ICLR target
+
+### Decisions Made
+
+1. Streamline the number of papers targeted.
+
+
+### Action Items
+
+| Action | Owner | Deadline | Status |
+|----------|----------|----------|----------|
+| xxx | xxx | 22 Sept 2026 | Open |
+| xxx | xxx | 20 Sept 2026 | Open |
+
+---
+
+# Research Pipeline
+
+| Project | Owner | Stage | Due Date | Status |
+|----------|----------|----------|----------|----------|
+| xxx | xxx | Writing | 30 Sept 2026 | Ongoing |
+| xxx | xxx | Data Collection | 15 Oct 2026 | Ongoing |
+| xxx | xxx | Idea Stage | 1 Nov 2026 | Planned |
+
+---
+
+# Learning & Development
+
+| Team Member | Skill | Progress |
+|-------------|---------|---------|
+| xxx | xxx | In Progress |
+| xxx | xxx | Completed |
+| xxx | xxx | In Progress |
+
+---
+
+# Risks & Blockers
+
+| Issue | Impact | Owner | Resolution |
+|---------|---------|---------|---------|
+| xxx | High | xxx | xxx |
+| xxx | Medium | xxx | xxx |
+
+---
+
+# Monthly Performance Dashboard
+
+## September 2026
+
+| Metric | Target | Actual |
+|----------|----------|----------|
+| xxx | 3 | 2 |
+| xxx | 2 | 1 |
+| xxx | 4 | 4 |
+| xxx | Weekly | Weekly |
+
+---
+
+# Key Decisions Register
+
+This section captures major decisions affecting the research program and serves as an institutional memory for the team.
+
+| Date | Decision | Reason |
+|----------|----------|----------|
+| 15 Sept 2026 | xxx | xxx |
+| 22 Sept 2026 | xxx | xxx |
+
+---
+
+# Open Action Items
+
+| Action Item | Owner | Priority | Status | Due Date |
+|------------|---------|---------|---------|---------|
+| xxx | xxx | High | In Progress | 22 Sept 2026 |
+| xxx | xxx | Medium | Open
