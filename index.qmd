@@ -28,10 +28,10 @@ This document serves as the central repository for research updates, individual 
 | Nthabiseng Thema | Researcher | Team Task Follow up |
 | Fiifi Dawson | Researcher | Upskilling/Training |
 | Fasseu Akpevwoghene | Researcher | Digital Infastucture |
-| Oriel | Researcher | Data Collection |
+| Oriel Loh | Researcher | Research |
 | Blessing Oludele | Researcher | Team Documentation |
-| xxx | Researcher | Data Collection |
-
+| Keza Yassin | Researcher | Research  |
+| Tourad Aidara | Researcher | Upskilling/Training  |
 
 ---
 
@@ -41,8 +41,8 @@ This document serves as the central repository for research updates, individual 
 
 | Goal | Success Metric | Due Date | Status |
 |--------|--------|--------|--------|
-| Submit 1 paper to ICLR 2027 | 1 Paper submission | Feb 2027 | In Progress |
-| Submit 1 paper to ICML 2027 | 1 Paper submission | Apr 2027 | In Progress |
+| Submit 1 paper to [ICLR 2027](https://iclr.cc/Conferences/2027/CallForPapers) | 1 Paper submission | Feb 2027 | In Progress |
+| Submit 1 paper to [ICML 2027](https://www.conferencegate.net/conferences/international-conference-on-machine-learning-2027) | 1 Paper submission | Apr 2027 | In Progress |
 
 
 ---
@@ -56,13 +56,7 @@ This document serves as the central repository for research updates, individual 
 - Provide research Direction for ICLR Paper
 - Provide research Direction for ICML Paper
 
-
-### Progress Updates
-
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | xxx |
-
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 ***
 ## Nthabiseng Thema
@@ -71,13 +65,7 @@ This document serves as the central repository for research updates, individual 
 
 - Follow up with everyone's task
 
-
-### Progress Updates
-
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | xxx |
-
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 ***
 ## Fiifi Dawson
@@ -86,13 +74,9 @@ This document serves as the central repository for research updates, individual 
 
 - Create learning track for all members
 
-
 ### Progress Updates
 
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | xxx |
-
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 ***
 ## Fasseu Akpevwoghene
@@ -101,11 +85,7 @@ This document serves as the central repository for research updates, individual 
 
 - Setup repo and provide access
 
-### Progress Updates
-
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | xxx |
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 
 ***
@@ -115,11 +95,7 @@ This document serves as the central repository for research updates, individual 
 
 - Research
 
-### Progress Updates
-
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | xxx |
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 
 ***
@@ -129,12 +105,27 @@ This document serves as the central repository for research updates, individual 
 
 - Create Documentation and keep updated
 
-### Progress Updates
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
-| Date | Update |
-|--------|--------|
-| 15 Sep 2026 | Finished Creation |
+***
 
+## Keza Yassin
+
+### Objectives
+
+- Agentic Memory Research direction
+
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
+
+***
+
+## Tourad Aidara
+
+### Objectives
+
+- Working on The curriculum to upskill the team 
+
+[Jira tracker](https://iclr-icml-research.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOGIwZjA4ZTVjZjQ2NDczMjg2YTNjNjlhMThjMGM1M2UiLCJwIjoiaiJ9)
 
 ---
 
@@ -145,7 +136,7 @@ This document serves as the central repository for research updates, individual 
 | Date | Meeting Type | Key Decisions | Next Steps |
 |--------|--------|--------|--------|
 | 13 Sept 2026 | Weekly Research Sync | Assigning tasks, gathering research interests | Follow up on tasks |
-
+| 19 Sept 2026 | Weekly Research Sync | Assigning more tasks, clarification of research doubts | Follow up on tasks |
 ---
 
 # Detailed Meeting Notes
@@ -170,12 +161,24 @@ This document serves as the central repository for research updates, individual 
 1. Streamline the number of papers targeted.
 
 
-### Action Items
+## Meeting #2
 
-| Action | Owner | Deadline | Status |
-|----------|----------|----------|----------|
-| xxx | xxx | 22 Sept 2026 | Open |
-| xxx | xxx | 20 Sept 2026 | Open |
+**Date:** 19 September 2026
+
+### Agenda
+
+- Meeting with Keza on Agentic Memory
+- Discussing paper roadblocks
+
+### Discussion Summary
+
+- Using Qwen to map from vector space to text in decoder step.
+- Questions on methods/attributes in the classes.
+
+### Decisions Made
+
+1. Tourad joins Fiifi in curriculum.
+2. Keza and Fasseu work on their research ideas.
 
 ---
 
@@ -183,19 +186,16 @@ This document serves as the central repository for research updates, individual 
 
 | Project | Owner | Stage | Due Date | Status |
 |----------|----------|----------|----------|----------|
-| xxx | xxx | Writing | 30 Sept 2026 | Ongoing |
-| xxx | xxx | Data Collection | 15 Oct 2026 | Ongoing |
-| xxx | xxx | Idea Stage | 1 Nov 2026 | Planned |
+| [Agentic Memory](https://github.com/ArnolFokam/agentic-memory) | Keza | Ideation | Feb 2027 | Ongoing |
+| Theoretical paper | Fasseu | Ideation | Feb 2027 | Ongoing |
 
 ---
 
 # Learning & Development
 
-| Team Member | Skill | Progress |
-|-------------|---------|---------|
-| xxx | xxx | In Progress |
-| xxx | xxx | Completed |
-| xxx | xxx | In Progress |
+[Theoretical paper on Agentic Memory](https://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf)  
+
+[Information Bottleneck Approach to Predictive Inference](https://www.sciencedirect.com/science/article/pii/0022247X6590154X)
 
 ---
 
@@ -206,18 +206,6 @@ This document serves as the central repository for research updates, individual 
 | xxx | High | xxx | xxx |
 | xxx | Medium | xxx | xxx |
 
----
-
-# Monthly Performance Dashboard
-
-## September 2026
-
-| Metric | Target | Actual |
-|----------|----------|----------|
-| xxx | 3 | 2 |
-| xxx | 2 | 1 |
-| xxx | 4 | 4 |
-| xxx | Weekly | Weekly |
 
 ---
 
@@ -227,14 +215,6 @@ This section captures major decisions affecting the research program and serves 
 
 | Date | Decision | Reason |
 |----------|----------|----------|
-| 15 Sept 2026 | xxx | xxx |
-| 22 Sept 2026 | xxx | xxx |
+| xxx | xxx | xxx |
+| xxx | xxx | xxx |
 
----
-
-# Open Action Items
-
-| Action Item | Owner | Priority | Status | Due Date |
-|------------|---------|---------|---------|---------|
-| xxx | xxx | High | In Progress | 22 Sept 2026 |
-| xxx | xxx | Medium | Open
