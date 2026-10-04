@@ -137,6 +137,8 @@ This document serves as the central repository for research updates, individual 
 |--------|--------|--------|--------|
 | 13 Sept 2026 | Weekly Research Sync | Assigning tasks, gathering research interests | Follow up on tasks |
 | 19 Sept 2026 | Weekly Research Sync | Assigning more tasks, clarification of research doubts | Follow up on tasks |
+| 26 Sept 2026 | Weekly Research Sync | Repurposing the AAAI paper using the feedbacks  | Focus on the research efforts |
+| 03 Oct 2026 | Weekly Research Sync | Learning and development kickoff  | Focus on the research efforts and learning |
 ---
 
 # Detailed Meeting Notes
@@ -180,6 +182,46 @@ This document serves as the central repository for research updates, individual 
 1. Tourad joins Fiifi in curriculum.
 2. Keza and Fasseu work on their research ideas.
 
+## Meeting #3
+
+**Date:** 26 September 2026
+
+### Agenda
+
+- Update on [AAAI paper](https://github.com/ArnolFokam/research-publications/tree/main/AAAI2027)
+- Updated results on the memory method for LoCoMo
+
+### Discussion Summary
+
+- The very first [paper](https://arxiv.org/abs/2609.00420) which was entirely theoretical got the final reviews this week and though the final decision was a rejection from the conference the feedback was very helpful.
+- We checked with everyone on their commitments to assigned tasks and the goal.
+- There were some technical deepdives into specific methodolodies on the ongoing research work with Fasseu and results for LoCoMo were shared.
+
+### Decisions Made
+
+1. The feedback gotten on the AAAI paper will be used to improve the paper and repurpose it for a submission to an ICLR workshop.
+
+## Meeting #4
+
+**Date:** 03 October 2026
+
+### Agenda
+
+- Feedback and direction for new [learning and development platform](https://github.com/fiifidawson/research-gym) 
+- Update on WiML @ NeurIPS 
+- Memory work Update with Keza
+- Repurposing AAAI paper
+
+### Discussion Summary
+
+- Our learning repo is live and has an easy and interesting methodology to get everyone up to speed with the playground, we spoke on how to make everyone a meaningful contributor and encourage manually working throught the tasks rather than vibe coding.
+- No update from NeurIPS funding yet but we are encouraged to start visa processing now.
+- Keza displayed the benchmark results o several models and the feedback was to get it in a table for better viewing. Arnol also suggested to move to a RAG architecture
+- Fasseu wasn't around for the repositioning talk but the workshop is the end goal.    
+
+### Decisions Made
+
+1. Everyone needs to checkout and follow through with the learning and development site, a deadline will help motivate us.     
 ---
 
 # Research Pipeline
