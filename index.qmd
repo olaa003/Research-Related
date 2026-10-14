@@ -32,6 +32,7 @@ This document serves as the central repository for research updates, individual 
 | Blessing Oludele | Researcher | Team Documentation |
 | Keza Yassin | Researcher | Research  |
 | Tourad Aidara | Researcher | Upskilling/Training  |
+| Eelaf | Researcher | Research  |
 
 ---
 
@@ -139,6 +140,7 @@ This document serves as the central repository for research updates, individual 
 | 19 Sept 2026 | Weekly Research Sync | Assigning more tasks, clarification of research doubts | Follow up on tasks |
 | 26 Sept 2026 | Weekly Research Sync | Repurposing the AAAI paper using the feedbacks  | Focus on the research efforts |
 | 03 Oct 2026 | Weekly Research Sync | Learning and development kickoff  | Focus on the research efforts and learning |
+| 11 Oct 2026 | Weekly Research Sync | Reasearch topics and Opportunities  | look for a benchmark for the research idea |
 ---
 
 # Detailed Meeting Notes
@@ -222,6 +224,29 @@ This document serves as the central repository for research updates, individual 
 ### Decisions Made
 
 1. Everyone needs to checkout and follow through with the learning and development site, a deadline will help motivate us.     
+
+## Meeting #6
+
+**Date:** 11 October 2026
+
+### Agenda
+
+- Follow the research gyms courses
+- Oriel sharing a research idea
+- Tourad sharing an AI safety competition
+
+### Discussion Summary
+
+- Everyone has to submit atleast one PR this week and give feedback on the learning platform.
+- Oriel’s idea is on the bottleneck agents facewhen faced with a lot of tools; when there are a lot of tools to use by an agent an architecture that has a main agent train other smaller ones at runtime to be specialized on some tools then it orchestrates to the master. Similar to [jev](https://papercompute.com/concepts/jev/) [read here also](https://arxiv.org/abs/2609.24965).
+- Tourad came forward with an [AI safety competition](https://apartresearch.com/sprints/ai-collusion-research-sprint-2026-10-23-to-2026-10-25) for us to look at and possible participate in.
+- All research efforts will be in full force to meet the timelines.
+
+### Decisions Made
+
+1. Oriel looks for a benchmarch that will help evaluate if this proposed architecture works.
+2. Everyone must engage with the research gymns learning site to complete a module every week.
+
 ---
 
 # Research Pipeline
